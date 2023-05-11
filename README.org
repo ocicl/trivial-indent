@@ -1,0 +1,10 @@
+* trivial-indent
+
+This allows you to define custom indentation hints for your macros if
+the one recognised by Slime automatically produces unwanted results.
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/Shinmera/trivial-indent.git |
+| commit  | f252750                                            |
+| systems | trivial-indent                                     |
+|---------+----------------------------------------------------|

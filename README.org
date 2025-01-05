@@ -5,6 +5,6 @@ the one recognised by Slime automatically produces unwanted results.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Shinmera/trivial-indent.git |
-| commit  | b5d490f                                            |
+| commit  | fc7380b                                            |
 | systems | trivial-indent                                     |
 |---------+----------------------------------------------------|

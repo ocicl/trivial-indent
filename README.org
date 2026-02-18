@@ -3,8 +3,8 @@
 This allows you to define custom indentation hints for your macros if
 the one recognised by Slime automatically produces unwanted results.
 
-|---------+----------------------------------------------------|
-| source  | git:https://github.com/Shinmera/trivial-indent.git |
-| commit  | 87b35ff                                            |
-| systems | trivial-indent                                     |
-|---------+----------------------------------------------------|
+|---------+------------------------------------------------------|
+| source  | git:https://codeberg.org/shinmera/trivial-indent.git |
+| commit  | df07d50                                              |
+| systems | trivial-indent                                       |
+|---------+------------------------------------------------------|
